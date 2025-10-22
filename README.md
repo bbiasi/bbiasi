@@ -9,7 +9,8 @@
 
 Profissional com **13 anos de experiência** atuando na intersecção entre **ciência de dados, engenharia e gestão de produtos digitais**. Especialista em desenvolver soluções analíticas para problemas complexos nos setores industrial, saneamento, educação, ESG e políticas públicas.
 
-**Atualmente:** Consultor e Cofundador na [BIT Analytics](https://bitanalytics.dev.br)
+**Atualmente:** Consultor e Cofundador na BIT Analytics
+
 [![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/BIT-Analytics)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/company/bit-analytics)
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/bitanalytics/)
