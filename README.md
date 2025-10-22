@@ -24,7 +24,7 @@ Profissional com **13 anos de experiência** atuando na intersecção entre **ci
 - **Ferramentas:** R, Python, SQL, Git, Shiny, OpenRefine
 
 ### **Product Management & Liderança**
-- **Product Owner:** Backlog, roadmap, priorização estratégica, metodologias ágeis
+- **Product Owner:** Backlog, roadmap, priorização estratégica, metodologias ágeis, gestão de projetos, produtos digitais
 - **Gestão de Negócios:** Propostas técnicas/comerciais, contratos, relacionamento com clientes
 - **Transformação Digital:** Estruturação de pipelines ETL, governança de dados, RPA, LGPD
 
