@@ -1,6 +1,6 @@
 # Brenner B. S. Silva
 
-**Cientista de Dados | Product Owner | Modelagem Analítica | Transformação Digital**
+**Cientista de Dados | Product Owner | Modelagem Analítica | Transformação Digital | Inovação | Risco**
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](http://www.linkedin.com/in/brennerbiasi)
 [![Stack Overflow](https://img.shields.io/badge/Stack_Overflow-FE7A16?style=for-the-badge&logo=stack-overflow&logoColor=white)](https://stackoverflow.com/users/9699371/bbiasi)
